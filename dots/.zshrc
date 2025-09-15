@@ -1,0 +1,1 @@
+Arch-env-dots/zsh/.zshrc

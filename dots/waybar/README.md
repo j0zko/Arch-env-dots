@@ -1,0 +1,1 @@
+../../Arch-env-dots/waybar/.config/waybar/README.md
